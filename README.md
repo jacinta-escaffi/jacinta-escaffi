@@ -4,7 +4,7 @@ I'm in the intersection of business strategy and data analysis for:
 
 🧐 **Better decision making**: Better data → better insights → better context → better decisions.
 
-🏇🏻 **Faster implementation**: Automation tools help reduce bureaucracy and intermediaries. Data can help AI agents automate pipelines with all the business context necessary.
+🏇🏻 **Faster implementation**: Automation tools help reduce bureaucracy and intermediaries. Data can help AI agents automate pipelines with all the necessary business context.
 
 🤩 **Greater proactiveness**: Data can create simulations and accurate forecasts, helping companies leverage those tools to prevent issues before they happen.
 
