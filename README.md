@@ -15,6 +15,16 @@ I'm in the intersection of business strategy and data analysis for:
 
 🔭 I’m currently learning Machine Learning, Implementing AI Agents for automation, and Data Management.
 
+### Tools
+<div display="flex">
+  <img src="https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql" alt="Postgresql"/>
+  <img src="https://img.shields.io/badge/mysql-yellow?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/python-lightblue?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/posit-orange?style=for-the-badge&logo=posit" alt="Posit"/>
+  <img src="https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/databricks-lightgrey?style=for-the-badge&logo=databricks" alt="Databricks"/>
+</div>
+
 ### 📊 Visualization work
 <div display="flex">
   <a href="https://public.tableau.com/app/profile/jacinta.escaffi">
